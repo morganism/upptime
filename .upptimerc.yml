@@ -16,6 +16,26 @@ sites:
     expectedStatusCodes:
       - 302
       - 404
+  - name: Home Webhook Listener
+    check: "tcp-ping"
+    url: $WEBHOOKS_MORGANISM_DEV_URL
+    port: 8888
+  - name: Home Status
+    url: "$HOME_STATUS_URL:$HOME_STATUS_PORT"
+  - name: Home VPN 
+    check: "tcp-ping"
+    port: $SSH_HOME_SZIRAKI_CO_UK_PORT
+    url: $SSH_HOME_SZIRAKI_CO_UK_URL
+  - name: RemoteLock Web Portal
+    url: https://smartlock.devicewebmanager.com/
+  - name: RemoteLock API Service
+    url: https://api.remotelock.com
+  - name: Pipedream
+    url: https://status.pipedream.com/
+  - name: Hive
+    url: https://status.hivehome.com
+assignees:  
+  - morganism
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
