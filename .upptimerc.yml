@@ -2,11 +2,20 @@
 owner: morganism # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+# __dangerous__disable_verify_peer: true
+# __dangerous__disable_verify_host: true
+# OR both in 1
+# __dangerous__insecure: true
+# 
 sites:
   - name: PASS Test 200
     url: https://git.morganism.dev/upptime
   - name: FAIL Test 404
     url: https://git.morganism.dev/morganism.dev/status
+    icon: https://avatars.githubusercontent.com/u/1324390?s=48&v=4
+    expectedStatusCodes:
+      - 302
+      - 404
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,9 +28,11 @@ status-website:
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/$OWNER/$REPO). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/morganism/upptime#readme
+    - title: Git Morganism
+      href: https://git.$OWNER.dev/$REPO
+    - title: Blog
+      href: https://blog.sziraki.co.uk/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
