@@ -3,9 +3,9 @@ owner: morganism # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
-  - name: PASS Test: 200
+  - name: PASS Test 200
     url: https://git.morganism.dev/upptime
-  - name: FAIL Test: 404
+  - name: FAIL Test 404
     url: https://git.morganism.dev/morganism.dev/status
 
 status-website:
