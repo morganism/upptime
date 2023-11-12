@@ -1,0 +1,7 @@
+url: $HOME_STATUS_URL:$HOME_STATUS_PORT
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-11-12T09:29:53.015Z
+startTime: 2023-11-12T09:29:53.011Z
+generator: Upptime <https://github.com/upptime/upptime>
