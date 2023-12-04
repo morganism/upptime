@@ -4,10 +4,10 @@
     "url": "https://git.morganism.dev/upptime",
     "icon": "https://icons.duckduckgo.com/ip3/git.morganism.dev.ico",
     "slug": "pass-test-200",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 567,
@@ -15,7 +15,9 @@
     "timeWeek": 516,
     "timeMonth": 567,
     "timeYear": 567,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-04": 1
+    }
   },
   {
     "name": "FAIL Test 404",
@@ -54,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-04": 7,
+      "2023-12-04": 548,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
       "2023-12-01": 1440,
@@ -96,7 +98,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-04": 7,
+      "2023-12-04": 548,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
       "2023-12-01": 1440,
@@ -138,7 +140,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-04": 7,
+      "2023-12-04": 548,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
       "2023-12-01": 1440,
@@ -198,7 +200,7 @@
     "timeMonth": 176,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2023-12-04": 7,
+      "2023-12-04": 548,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
       "2023-12-01": 1440,
