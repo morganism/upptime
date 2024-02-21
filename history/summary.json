@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-21": 143,
+      "2024-02-21": 150,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
@@ -175,7 +175,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-21": 143,
+      "2024-02-21": 150,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
@@ -296,7 +296,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-21": 143,
+      "2024-02-21": 150,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
@@ -435,7 +435,7 @@
     "timeMonth": 185,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2024-02-21": 143,
+      "2024-02-21": 150,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
@@ -544,19 +544,19 @@
     "url": "https://status.pipedream.com/",
     "icon": "https://icons.duckduckgo.com/ip3/status.pipedream.com.ico",
     "slug": "pipedream",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 763,
-    "timeDay": 578,
-    "timeWeek": 858,
-    "timeMonth": 705,
-    "timeYear": 763,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 761,
+    "timeDay": 537,
+    "timeWeek": 821,
+    "timeMonth": 698,
+    "timeYear": 761,
     "dailyMinutesDown": {
-      "2024-02-21": 0
+      "2024-02-21": 8
     }
   },
   {
