@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-03": 7,
+      "2024-03-03": 211,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
@@ -186,7 +186,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-03": 7,
+      "2024-03-03": 211,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
@@ -318,7 +318,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-03": 7,
+      "2024-03-03": 211,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
@@ -468,7 +468,7 @@
     "timeMonth": 205,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2024-03-03": 7,
+      "2024-03-03": 211,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
@@ -588,18 +588,20 @@
     "url": "https://status.pipedream.com/",
     "icon": "https://icons.duckduckgo.com/ip3/status.pipedream.com.ico",
     "slug": "pipedream",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 731,
-    "timeDay": 785,
-    "timeWeek": 625,
-    "timeMonth": 647,
-    "timeYear": 731,
-    "dailyMinutesDown": {}
+    "time": 727,
+    "timeDay": 646,
+    "timeWeek": 592,
+    "timeMonth": 639,
+    "timeYear": 727,
+    "dailyMinutesDown": {
+      "2024-03-03": 0
+    }
   },
   {
     "name": "Hive",
