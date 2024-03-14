@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-14": 271,
+      "2024-03-14": 278,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
@@ -197,7 +197,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-14": 271,
+      "2024-03-14": 278,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
@@ -340,7 +340,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-14": 271,
+      "2024-03-14": 278,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
@@ -471,19 +471,19 @@
     "url": "https://smartlock.devicewebmanager.com/",
     "icon": "https://icons.duckduckgo.com/ip3/smartlock.devicewebmanager.com.ico",
     "slug": "remote-lock-web-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 201,
-    "timeWeek": 204,
-    "timeMonth": 205,
-    "timeYear": 293,
+    "time": 291,
+    "timeDay": 179,
+    "timeWeek": 196,
+    "timeMonth": 203,
+    "timeYear": 291,
     "dailyMinutesDown": {
-      "2024-03-14": 0
+      "2024-03-14": 7
     }
   },
   {
@@ -503,7 +503,7 @@
     "timeMonth": 192,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2024-03-14": 271,
+      "2024-03-14": 278,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
