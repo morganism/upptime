@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-18": 7,
+      "2024-03-18": 1115,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
@@ -201,7 +201,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-18": 7,
+      "2024-03-18": 1115,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
@@ -348,7 +348,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-18": 7,
+      "2024-03-18": 1115,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
@@ -483,18 +483,20 @@
     "url": "https://smartlock.devicewebmanager.com/",
     "icon": "https://icons.duckduckgo.com/ip3/smartlock.devicewebmanager.com.ico",
     "slug": "remote-lock-web-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 290,
-    "timeDay": 98,
-    "timeWeek": 218,
-    "timeMonth": 206,
-    "timeYear": 290,
-    "dailyMinutesDown": {}
+    "time": 289,
+    "timeDay": 135,
+    "timeWeek": 213,
+    "timeMonth": 205,
+    "timeYear": 289,
+    "dailyMinutesDown": {
+      "2024-03-18": 0
+    }
   },
   {
     "name": "RemoteLock API Service",
@@ -513,7 +515,7 @@
     "timeMonth": 197,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2024-03-18": 7,
+      "2024-03-18": 1115,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
