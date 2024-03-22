@@ -1,7 +1,7 @@
 url: https://smartlock.devicewebmanager.com/
-status: up
-code: 200
-responseTime: 179
-lastUpdated: 2024-03-21T23:01:29.179Z
+status: down
+code: 500
+responseTime: 364
+lastUpdated: 2024-03-22T17:19:38.604Z
 startTime: 2023-11-12T09:31:13.169Z
 generator: Upptime <https://github.com/upptime/upptime>
