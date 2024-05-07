@@ -4,10 +4,10 @@
     "url": "https://git.morganism.dev/upptime",
     "icon": "https://icons.duckduckgo.com/ip3/git.morganism.dev.ico",
     "slug": "pass-test-200",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 642,
@@ -15,17 +15,19 @@
     "timeWeek": 698,
     "timeMonth": 712,
     "timeYear": 642,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-07": 1
+    }
   },
   {
     "name": "FAIL Test 404",
     "url": "https://git.morganism.dev/morganism.dev/status",
     "icon": "https://avatars.githubusercontent.com/u/1324390?s=48&v=4",
     "slug": "fail-test-404",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 70,
@@ -34,6 +36,7 @@
     "timeMonth": 59,
     "timeYear": 70,
     "dailyMinutesDown": {
+      "2024-05-07": 1,
       "2023-11-12": 91
     }
   },
@@ -54,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-07": 6,
+      "2024-05-07": 1366,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
       "2024-05-04": 1440,
@@ -251,7 +254,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-07": 6,
+      "2024-05-07": 1367,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
       "2024-05-04": 1440,
@@ -448,7 +451,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-07": 6,
+      "2024-05-07": 1367,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
       "2024-05-04": 1440,
@@ -665,7 +668,7 @@
     "timeMonth": 188,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2024-05-07": 6,
+      "2024-05-07": 1367,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
       "2024-05-04": 1440,
