@@ -4,10 +4,10 @@
     "url": "https://git.morganism.dev/upptime",
     "icon": "https://icons.duckduckgo.com/ip3/git.morganism.dev.ico",
     "slug": "pass-test-200",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 657,
@@ -16,6 +16,7 @@
     "timeMonth": 728,
     "timeYear": 657,
     "dailyMinutesDown": {
+      "2024-06-25": 1,
       "2024-05-08": 30,
       "2024-05-07": 75
     }
@@ -25,10 +26,10 @@
     "url": "https://git.morganism.dev/morganism.dev/status",
     "icon": "https://avatars.githubusercontent.com/u/1324390?s=48&v=4",
     "slug": "fail-test-404",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 75,
@@ -37,6 +38,7 @@
     "timeMonth": 93,
     "timeYear": 75,
     "dailyMinutesDown": {
+      "2024-06-25": 1,
       "2024-05-08": 30,
       "2024-05-07": 75,
       "2023-11-12": 91
@@ -59,7 +61,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-25": 7,
+      "2024-06-25": 1281,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -305,7 +307,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-25": 7,
+      "2024-06-25": 1281,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -551,7 +553,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-25": 7,
+      "2024-06-25": 1281,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -817,7 +819,7 @@
     "timeMonth": 177,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2024-06-25": 7,
+      "2024-06-25": 1281,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
