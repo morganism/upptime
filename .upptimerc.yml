@@ -30,6 +30,8 @@ sites:
     url: https://smartlock.devicewebmanager.com/
   - name: RemoteLock API Service
     url: https://api.remotelock.com
+    expectedStatusCodes:
+      - 4012
   - name: Pipedream
     url: https://status.pipedream.com/
   - name: Hive
