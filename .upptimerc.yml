@@ -33,7 +33,7 @@ sites:
     expectedStatusCodes:
       - 401
   - name: EC2 Docker Box
-    url: https:/ec2-3-11-207-176.eu-west-2.compute.amazonaws.com:9443/
+    url: http://ec2-3-11-207-176.eu-west-2.compute.amazonaws.com:9000/
     expectedStatusCodes:
       - 200
   - name: Pipedream
