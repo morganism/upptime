@@ -1,7 +1,7 @@
-url: https:/ec2-3-11-207-176.eu-west-2.compute.amazonaws.com:9443/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-09T23:02:23.144Z
+url: http://ec2-3-11-207-176.eu-west-2.compute.amazonaws.com:9000/
+status: up
+code: 200
+responseTime: 245
+lastUpdated: 2024-08-09T23:13:36.856Z
 startTime: 2024-08-09T23:01:53.112Z
 generator: Upptime <https://github.com/upptime/upptime>
